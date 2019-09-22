@@ -11,7 +11,7 @@ class App extends Component {
   }
   popup = () => {
     var xans,xhint;
-    var answer = prompt("Player 1 : Please enter your some text:", "EX.HELLO");
+    var answer = prompt("Player 1 : Please enter your some text:", "SIVAKORN");
     var hint = prompt("Player 1 : Please enter your hint:", "Ex.say every day");
     if (answer == null || answer == "") {
       xans = "";
