@@ -36,7 +36,7 @@ class App extends Component {
             <WordCard value={this.state.value}/>
             <h1>Hint</h1>
             <p>{this.state.hint}</p>
-            <p><br></br>create by airx</p>
+            <p><br></br>create by gitball</p>
           </center>      
       </div>
     );
