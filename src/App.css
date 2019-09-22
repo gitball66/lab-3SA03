@@ -8,10 +8,10 @@
   }
   
   .App-header {
-    background-color: #222;
+    background-color: rgb(6, 158, 6);
     height: 150px;
     padding: 20px;
-    color: white;
+    color: rgb(209, 243, 18);
   }
   
   .App-title {
@@ -38,7 +38,7 @@
    }
   
    .activeCard {
-    color: red;
-    background: pink;
+    color: rgb(55, 0, 255);
+    background: rgb(4, 252, 45);
    }
    
